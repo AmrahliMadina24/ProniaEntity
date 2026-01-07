@@ -444,3 +444,16 @@ C:\Users\nabdu\Desktop\MPA201-GitHub\1-AdminPanel\ProniaAdmin-master\bin\Debug\n
 C:\Users\nabdu\Desktop\MPA201-GitHub\1-AdminPanel\ProniaAdmin-master\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\nabdu\Desktop\MPA201-GitHub\1-AdminPanel\ProniaAdmin-master\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\nabdu\Desktop\MPA201-GitHub\1-AdminPanel\ProniaAdmin-master\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.csproj.AssemblyReference.cache
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.AssemblyInfoInputs.cache
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.AssemblyInfo.cs
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.csproj.CoreCompileInputs.cache
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.RazorAssemblyInfo.cache
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.RazorAssemblyInfo.cs
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.sourcelink.json
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.dll
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\refint\ProniaAdmin.dll
+C:\Users\Madina\source\repos\ProniaAdmin\obj\Debug\net8.0\ProniaAdmin.pdb

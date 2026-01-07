@@ -10,7 +10,9 @@ namespace ProniaAdmin.ViewModels.UserViewModels
         
         [Required, MaxLength(32), MinLength(2)]
         public string FirstName { get; set; } = string.Empty;
-        
+        [Required, MaxLength(32), MinLength(2)]
+        public string UserName { get; set; } = string.Empty;
+
         [Required, EmailAddress]
         public string EmailAddress { get; set; } = string.Empty;
         

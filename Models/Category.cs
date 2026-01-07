@@ -1,14 +1,11 @@
-﻿namespace ProniaAdmin.Models;
+﻿using ProniaAdmin.Models.Common;
+using System.ComponentModel.DataAnnotations;
 
-public class Category
-{ 
-    public int Id { get; set; }
-
-    public string Name { get; set; }
-
-    public DateTime CreatedDate { get; set; }
-
-    public DateTime? UpdatedDate { get; set; }
-
-    public bool IsDeleted { get; set; }
+namespace ProniaAdmin.Models
+{
+    public class Category : BaseEntity
+    {
+        public string Name { get; set; }
+        public ICollection<Product> Products { get; set; }
+    }
 }

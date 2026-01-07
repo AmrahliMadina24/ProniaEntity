@@ -8,7 +8,7 @@ public class CategoryController(AppDbContext _context) : Controller
 {
     public IActionResult Index()
     {
-        var categories = _context.Categorys.ToList();
+        var categories = _context.Categories.ToList();
         return View(categories);
     }
 
@@ -25,14 +25,14 @@ public class CategoryController(AppDbContext _context) : Controller
         if (!ModelState.IsValid) return View(category);
         category.CreatedDate = DateTime.UtcNow.AddHours(4);
         category.IsDeleted = false;
-        _context.Categorys.Add(category);
+        _context.Categories.Add(category);
         _context.SaveChanges();
         return RedirectToAction(nameof(Index));
     }
 
     public IActionResult Delete(int id)
     {
-        var category = _context.Categorys.FirstOrDefault(s => s.Id == id);
+        var category = _context.Categories.FirstOrDefault(s => s.Id == id);
         if (category == null) return NotFound("Product isvnot found!");
         _context.Categorys.Remove(category);
         _context.SaveChanges();
@@ -42,7 +42,7 @@ public class CategoryController(AppDbContext _context) : Controller
     [HttpGet]
     public IActionResult Update(int id)
     {
-        var category = _context.Categorys.FirstOrDefault(s => s.Id == id);
+        var category = _context.Categories.FirstOrDefault(s => s.Id == id);
         if (category == null) return NotFound();
         return View(category);
     }
@@ -52,12 +52,12 @@ public class CategoryController(AppDbContext _context) : Controller
     {
         if (!ModelState.IsValid) return View();
 
-        var existCategory = _context.Categorys.FirstOrDefault(s => s.Id == category.Id);
+        var existCategory = _context.Categories.FirstOrDefault(s => s.Id == category.Id);
         if (existCategory == null) return NotFound();
 
         existCategory.Name = category.Name;
 
-        _context.Categorys.Update(existCategory);
+        _context.Categories.Update(existCategory);
         _context.SaveChanges();
 
         return RedirectToAction(nameof(Index));
@@ -66,12 +66,12 @@ public class CategoryController(AppDbContext _context) : Controller
     [HttpPost]
     public IActionResult Toggle(int id)
     {
-        var existCategory = _context.Categorys.FirstOrDefault(s => s.Id == id);
+        var existCategory = _context.Categories.FirstOrDefault(s => s.Id == id);
         if (existCategory == null) return NotFound();
 
         existCategory.IsDeleted = !existCategory.IsDeleted;
 
-        _context.Categorys.Update(existCategory);
+        _context.Categories.Update(existCategory);
         _context.SaveChanges();
 
         return RedirectToAction("Index");
