@@ -11,12 +11,36 @@
       "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\abstraction\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:abstraction\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\viewmodels\\emailviewmodels\\smtpsettingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:viewmodels\\emailviewmodels\\smtpsettingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -61,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,14 +163,6 @@
       "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|c:\\users\\madina\\source\\repos\\proniaadmin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B67BBFB1-ED34-42E0-98BA-CAA24F76D911}|ProniaAdmin.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -178,8 +190,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -188,15 +208,28 @@
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIAwwEcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T06:48:04.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Abstraction\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Abstraction\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Abstraction\\IEmailService.cs",
+              "RelativeToolTip": "Abstraction\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:49:00.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProniaAdmin",
+              "Title": "ProniaAdmin.csproj",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ProniaAdmin.csproj",
               "RelativeDocumentMoniker": "ProniaAdmin.csproj",
               "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ProniaAdmin.csproj",
@@ -208,33 +241,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T07:23:01.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBYAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-06T06:48:04.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwC4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T06:48:04.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACkDAAAAAAAAAAAIwCQFAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T06:48:04.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmtpSettingsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ViewModels\\EmailViewModels\\SmtpSettingsVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EmailViewModels\\SmtpSettingsVM.cs",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ViewModels\\EmailViewModels\\SmtpSettingsVM.cs",
+              "RelativeToolTip": "ViewModels\\EmailViewModels\\SmtpSettingsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:05:22.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:55:57.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAADwv6UAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T06:48:04.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
@@ -247,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -260,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "Models\\Tag.cs",
@@ -273,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "Models\\Slider.cs",
@@ -286,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -299,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Models\\Service.cs",
@@ -312,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "ProductTag.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\ProductTag.cs",
               "RelativeDocumentMoniker": "Models\\ProductTag.cs",
@@ -325,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "Models\\ProductImage.cs",
@@ -338,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ProductBrand.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\ProductBrand.cs",
               "RelativeDocumentMoniker": "Models\\ProductBrand.cs",
@@ -351,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -364,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -377,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\Common\\BaseEntity.cs",
@@ -390,20 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\Brand.cs",
-              "RelativeToolTip": "Models\\Brand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T07:23:01.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Contexts\\AppDbContext.cs",
@@ -416,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Models\\AppUser.cs",
@@ -429,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "TagConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Configurations\\TagConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\TagConfiguration.cs",
@@ -442,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "SliderConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Configurations\\SliderConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\SliderConfiguration.cs",
@@ -455,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "ServiceConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Configurations\\ServiceConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\ServiceConfiguration.cs",
@@ -468,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "ProductImageConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Configurations\\ProductImageConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\ProductImageConfiguration.cs",
@@ -481,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Configurations\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\ProductConfiguration.cs",
@@ -494,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\CategoryConfiguration.cs",
@@ -507,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "BrandConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Configurations\\BrandConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\BrandConfiguration.cs",
@@ -520,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -532,16 +617,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "UserVM.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ViewModels\\UserViewModels\\UserVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\UserViewModels\\UserVM.cs",
@@ -554,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ViewModels\\UserViewModels\\LoginVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\UserViewModels\\LoginVM.cs",
@@ -567,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 35,
               "Title": "HomeViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ViewModels\\HomeViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\HomeViewModel.cs",
@@ -580,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ViewModels\\UserViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\UserViewModels\\RegisterVM.cs",
@@ -593,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 36,
               "Title": "ProductUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\ProductViewModels\\ProductUpdateVM.cs",
@@ -606,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "ProductGetVM.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ViewModels\\ProductViewModels\\ProductGetVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\ProductViewModels\\ProductGetVM.cs",
@@ -619,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "ProductCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\ViewModels\\ProductViewModels\\ProductCreateVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\ProductViewModels\\ProductCreateVM.cs",
@@ -632,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
@@ -645,33 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAnwEEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T06:48:04.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAOIBAAAAAAAAAAAYwOkBAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T06:48:04.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -684,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -697,20 +748,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA+wFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-07T05:49:49.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "20260105183553_AddedIdentity.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Migrations\\20260105183553_AddedIdentity.cs",
               "RelativeDocumentMoniker": "Migrations\\20260105183553_AddedIdentity.cs",
@@ -718,11 +769,12 @@
               "RelativeToolTip": "Migrations\\20260105183553_AddedIdentity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T06:48:04.72Z"
+              "WhenOpened": "2026-01-06T06:48:04.72Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Madina\\source\\repos\\ProniaAdmin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -730,7 +782,8 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T06:48:04.735Z"
+              "WhenOpened": "2026-01-06T06:48:04.735Z",
+              "EditorCaption": ""
             }
           ]
         }

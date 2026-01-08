@@ -34,7 +34,7 @@ public class CategoryController(AppDbContext _context) : Controller
     {
         var category = _context.Categories.FirstOrDefault(s => s.Id == id);
         if (category == null) return NotFound("Product isvnot found!");
-        _context.Categorys.Remove(category);
+        _context.Categories.Remove(category);
         _context.SaveChanges();
         return RedirectToAction(nameof(Index));
     }
