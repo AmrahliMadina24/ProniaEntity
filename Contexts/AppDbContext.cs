@@ -6,22 +6,22 @@ using System.Reflection;
 namespace ProniaAdmin.Contexts
 {
     public class AppDbContext : IdentityDbContext<AppUser>
-    {
+    {}
 
-        public AppDbContext(DbContextOptions options) : base(options)
-        {
+            public AppDbContext(DbContextOptions options) : base(options)
+            {
 
-        }
+            }
 
-        protected override void OnModelCreating(ModelBuilder builder)
-        {
-            builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
-            base.OnModelCreating(builder);
-        }
+            protected override void OnModelCreating(ModelBuilder builder)
+            {
+                builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+                base.OnModelCreating(builder);
+            }
 
 
 
-        public DbSet<Slider> Sliders { get; set; }
+            public DbSet<Slider> Sliders { get; set; }
         public DbSet<Service> Services { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductImage> ProductImages { get; set; }
@@ -30,5 +30,6 @@ namespace ProniaAdmin.Contexts
         public DbSet<ProductTag> ProductTags { get; set; }
         public DbSet<Brand> Brands { get; set; }
         public DbSet<ProductBrand> ProductBrands { get; set; }
+        public DbSet<BasketItem> BasketItems { get; set; }
     }
 }

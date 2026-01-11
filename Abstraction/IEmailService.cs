@@ -1,7 +1,7 @@
 ﻿namespace ProniaAdmin.Abstraction
 {
-    public class IEmailService
+    public interface IEmailService
     {
-        private Task SendEmailAsync(string email, string subject, string body);
+        Task SendEmailAsync(string email, string subject, string body);
     }
 }

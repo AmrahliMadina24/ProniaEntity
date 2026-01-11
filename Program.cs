@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using ProniaAdmin.Abstraction;
 using ProniaAdmin.Contexts;
+using ProniaAdmin.Services;
 
 namespace ProniaAdmin;
 
@@ -9,40 +11,42 @@ public class Program
     public static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
+
         builder.Services.AddControllersWithViews();
 
+        builder.Services.AddScoped<IBasketService, BasketService>();
         builder.Services.AddScoped<IEmailService, EmailService>();
 
         builder.Services.AddDbContext<AppDbContext>(opt =>
         {
             opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
         });
-        builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+
+        builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
         {
-            opt.Password.RequiredLength = 6;
-            opt.Password.RequireUppercase = true;
-            opt.Password.RequireNonAlphanumeric = true;
-            opt.User.RequireUniqueEmail = true;
+            options.Password.RequiredLength = 6;
+            options.Password.RequireUppercase = true;
+            options.Password.RequireNonAlphanumeric = true;
 
-            opt.Lockout.MaxFailedAccessAttempts = 5;
-
-            opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+            options.User.RequireUniqueEmail = true;
+            options.Lockout.MaxFailedAccessAttempts = 5;
+            options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(15);
         }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
-
         var app = builder.Build();
-        app.UseStaticFiles();
-        app.UseRouting();
-        app.UseAuthorization();
-        app.MapControllerRoute(
-              name: "areas",
-              pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
-            );
 
+        app.UseStaticFiles();
+
+        app.UseRouting();
+
+        app.UseAuthorization();
+
+        app.MapControllerRoute(
+          name: "areas",
+          pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+        );
 
         app.MapDefaultControllerRoute();
-
-
 
         app.Run();
     }
